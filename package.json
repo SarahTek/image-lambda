@@ -1,0 +1,19 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "AWS S3 and Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahTek/image-lambda.git"
+  },
+  "author": "Sarah Teklemariam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahTek/image-lambda/issues"
+  },
+  "homepage": "https://github.com/SarahTek/image-lambda#readme"
+}
