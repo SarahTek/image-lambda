@@ -1,0 +1,15 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "Statement1",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:getObject",
+                "s3:putObject"
+            ],
+            "Resource": "arn:aws:s3:::image-bucket-21/*"
+        }
+    ]
+}
